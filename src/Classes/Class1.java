@@ -11,6 +11,12 @@ public class Class1 {
     int myAge = 20;
 
     public static void main(String[] args) {
+        // in the same class also we can use the class by creating an object.
+
+        Class1 Obj = new Class1();
+        Obj.myName = "John2";
+        Obj.myAge = 20;
+        System.out.println(Obj.myName);
 
     }
 }
