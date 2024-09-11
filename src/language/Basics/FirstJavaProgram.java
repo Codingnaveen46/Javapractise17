@@ -39,5 +39,6 @@ public class FirstJavaProgram {
 
 
         System.out.println("Hello World");
+        System.out.print("Hey");
     }
 }
