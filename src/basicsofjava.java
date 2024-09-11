@@ -22,6 +22,7 @@ public class basicsofjava {
         //jvm is converted into binary language (010101101)
         //new
 
+        //learnt about the singleline and multiline comments
 
 
 
