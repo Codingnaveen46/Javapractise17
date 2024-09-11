@@ -30,13 +30,10 @@ public class FirstJavaProgram {
         //why we need to create a package folder to identify the folder
         //1 package name should starts with lowercase followed by camel case
         // space is not allowed
-        //if we want to create sub folder need to use (.dot)
-
 
         // creating java class
         // name should always start with Uppercase followed by camelcase
         //do not start with numbers or special characters
-
 
         System.out.println("Hello World");
         System.out.print("Hey"); // print in the same line
