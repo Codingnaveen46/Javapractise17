@@ -1,3 +1,5 @@
+package languageBasics;
+
 public class basicsofjava {
 
     public static void main(String[] args) {
@@ -24,7 +26,10 @@ public class basicsofjava {
 
         //learnt about the singleline and multiline comments
 
-
+        //creating new package folder
+        //why we need to create a package folder to identify the folder
+        //1 package name should starts with lowercase followed by camel case
+        // space is not allowed
 
     }
 }
