@@ -41,6 +41,5 @@ public class FirstJavaProgram {
         System.out.println("Hello World");
         System.out.print("Hey"); // print in the same line
         //new commit
-        //newcomment
     }
 }
