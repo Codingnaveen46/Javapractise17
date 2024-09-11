@@ -1,6 +1,6 @@
-package languageBasics;
+package language.Basics;
 
-public class basicsofjava {
+public class FirstJavaProgram {
 
     public static void main(String[] args) {
         //single line comment
@@ -30,6 +30,14 @@ public class basicsofjava {
         //why we need to create a package folder to identify the folder
         //1 package name should starts with lowercase followed by camel case
         // space is not allowed
+        //if we want to create sub folder need to use (.dot)
 
+
+        // creating java class
+        // name should always start with Uppercase followed by camelcase
+        //do not start with numbers or special characters
+
+
+        System.out.println("Hello World");
     }
 }
