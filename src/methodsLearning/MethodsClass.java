@@ -25,6 +25,7 @@ public class MethodsClass {
         return getbalance();
     }
 
+    //learnt about the methods
 
 }
 
