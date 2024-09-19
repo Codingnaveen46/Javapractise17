@@ -24,5 +24,7 @@ public class MethodsClass {
         System.out.println("balance");
         return getbalance();
     }
+
+
 }
 
