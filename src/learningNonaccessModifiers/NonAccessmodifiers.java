@@ -11,9 +11,11 @@ public class NonAccessmodifiers {
 
 
         //static  ==> static can make any property as global access
-        //Abstract ==>
-        //Final
-        //Synchronized
+        //Abstract ==> control the behaviour of the access  before method and class
+        //Final   ==> before data,method,class ==> cannot modify final properties
+        //Synchronized  ==> one thread at a time
+
+
 
 
 
