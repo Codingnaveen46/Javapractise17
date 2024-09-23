@@ -1,7 +1,7 @@
 package learningNonaccessModifiers;
 
 public class FinalClass2 extends FinalClass1{
-    public void printName(){
+  /*  public void printName(){
         System.out.println("naveen2");
     }
 
@@ -10,6 +10,6 @@ public class FinalClass2 extends FinalClass1{
 
         obj.printName();
         obj.changeName("fsdfsdf");
-    }
+    }*/
 
 }
